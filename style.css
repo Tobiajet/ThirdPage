@@ -1,0 +1,25 @@
+.list {
+    margin: 0 0 0 32px;
+    line-height: 1.5;
+}
+
+.b1 {
+    list-style-image: url(https://courseshunter.com/media/images/learn-html5-css3-full-course.jpg);
+    margin-left: 30rem;
+
+}
+
+.b2 {
+    list-style-image: url(https://coursedownloader.net/wp-content/uploads/2019/05/Untitled-8.jpg);
+    margin-left: 37rem;
+}
+
+.b3 {
+    list-style-image: url(https://udemycoupons.me/wp-content/uploads/2019/12/Udemy-Coupon-100-OFF-Complete-Git-Guide-Understand-and-master-Git-and-GitHub-696x436.jpg);
+    margin-left: 43rem;
+}
+
+.b4 {
+    list-style-image: url(https://courseshunter.com/media/images/css-flexbox-mastering-the-basics.jpg);
+    margin-left: 40rem;;
+}
